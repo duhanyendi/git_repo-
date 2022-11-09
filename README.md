@@ -1,4 +1,4 @@
-<<<<<<< MY FIRST REPOSITORY 
+# FIRST REPO
 
 ## DESCRIPTION 
 
@@ -16,9 +16,6 @@ The mean of the total amount of fines charged from "parking .csv"
 
 Additionally, gives an output of the infraction description and fine charge associated with it.
 
-
-======= 
->>>>>>> 
 
 
 
